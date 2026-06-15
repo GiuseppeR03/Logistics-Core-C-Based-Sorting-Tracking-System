@@ -1,0 +1,7 @@
+6
+TRK001A Milano 1 2
+TRK002B Roma 3 6
+TRK003C Napoli 2 1
+TRK004D Milano 2 7
+TRK005E Torino 3 10
+TRK006F Roma 1 0
